@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web dev**
 
-- 💬 Ask me about **C++, Python**
+- 💬 Ask me about **C++, FrontendDev**
 
 - 📫 How to reach me **garvmalik11@gmail.com**
 
